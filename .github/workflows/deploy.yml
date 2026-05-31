@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [ bytesfest2026 ]
+    branches: [ bytesfest2026_develop ]
   workflow_dispatch:
 
 permissions:
